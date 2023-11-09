@@ -1,4 +1,4 @@
-﻿#include <iostream> //I_like cat
+﻿#include <iostream>
 
 int main()
 {
